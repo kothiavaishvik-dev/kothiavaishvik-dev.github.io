@@ -1,0 +1,12 @@
+title: Vaishvik Kothia
+description: Business development, marketing and sales for the chemical, pharmaceutical and specialty chemical industries.
+url: https://kothiavaishvik-dev.github.io
+baseurl: ""
+theme: jekyll-theme-slate
+show_downloads: false
+plugins:
+  - jekyll-seo-tag
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
